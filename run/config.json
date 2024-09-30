@@ -1,0 +1,40 @@
+{
+    "translation": {
+        "SECRET_ID": "",
+        "SECRET_KEY": "",
+        "shortcut1": "Ctrl+L",
+        "shortcut2": "Ctrl+P",
+        "target_lang1": "ru",
+        "target_lang2": "zh",
+        "copy_delay_ms": 100,
+        "languages": [
+            "en",
+            "zh",
+            "ja",
+            "ko",
+            "fr",
+            "de",
+            "es",
+            "ru",
+            "it",
+            "pt",
+            "nl",
+            "ar",
+            "th",
+            "vi",
+            "id",
+            "hi",
+            "fa"
+        ]
+    },
+    "file_classifier": {
+        "folder_path": "",
+        "filter_types": "",
+        "exclude_types": ""
+    },
+    "ui_settings": {
+        "background_image": "C:\\Users\\Administrator\\Desktop\\ToolBox\\top\\resource\\Icon\\bg\\DXLBG3.png",
+        "language": "zh",
+        "text_color": "#000000"
+    }
+}
