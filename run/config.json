@@ -1,12 +1,12 @@
 {
     "translation": {
-        "SECRET_ID": "AKIDXG87FFLXl5NduV6hWOJGHGDGYwIanzJb",
-        "SECRET_KEY": "KjBd2Y4hK0fHuiXUhnojmpoqx8KbzXDp",
-        "shortcut1": "Ctrl+L",
-        "shortcut2": "Ctrl+P",
+        "SECRET_ID": "",
+        "SECRET_KEY": "",
+        "shortcut1": "",
+        "shortcut2": "",
         "target_lang1": "en",
         "target_lang2": "en",
-        "copy_delay_ms": 50,
+        "copy_delay_ms": 100,
         "languages": [
             "en",
             "zh",
@@ -33,71 +33,9 @@
         "exclude_types": ""
     },
     "ui_settings": {
-        "background_image": ":/icons/bg/DXLBG2.png",
+        "background_image": ":/icons/bg/bg1.png",
         "language": "zh",
-        "text_color": "#fff715",
-        "transparency": 100,
-        "ui_theme": "默认",
-        "ui_style": "windows11",
-        "custom_style_path": "C:/Users/Administrator/Desktop/ToolBox/top/resource/other/newstyle.qss"
-    },
-    "system_repair": {
-        "scan_size_mb": 1024,
-        "dns_servers": [
-            "8.8.8.8",
-            "8.8.4.4",
-            "1.1.1.1",
-            "1.0.0.1",
-            "9.9.9.9",
-            "149.112.112.112",
-            "208.67.222.222",
-            "208.67.220.220",
-            "8.26.56.26",
-            "8.20.247.20",
-            "4.2.2.2",
-            "4.2.2.1",
-            "208.67.222.123",
-            "208.67.220.123",
-            "114.114.114.114",
-            "223.5.5.5",
-            "223.6.6.6",
-            "180.76.76.76",
-            "119.29.29.29",
-            "182.254.116.116",
-            "119.28.28.28",
-            "140.207.198.241",
-            "210.140.92.20"
-        ],
-        "primary_dns_servers": [
-            "8.8.8.8",
-            "8.8.4.4",
-            "1.1.1.1",
-            "1.0.0.1",
-            "9.9.9.9",
-            "149.112.112.112",
-            "208.67.222.222",
-            "208.67.220.220",
-            "8.26.56.26",
-            "8.20.247.20",
-            "4.2.2.2",
-            "4.2.2.1",
-            "208.67.222.123",
-            "208.67.220.123",
-            "114.114.114.114",
-            "223.5.5.5",
-            "223.6.6.6",
-            "180.76.76.76",
-            "119.29.29.29",
-            "182.254.116.116",
-            "119.28.28.28",
-            "140.207.198.241",
-            "210.140.92.20"
-        ],
-        "secondary_dns_servers": [
-            "114.114.114.114",
-            "8.8.8.8"
-        ],
-        "secondary_dns": "114.114.114.114",
-        "fallback_secondary_dns": "8.8.8.8"
+        "text_color": "#ffef0a",
+        "ui_style": "windows11"
     }
 }
